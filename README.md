@@ -3,9 +3,7 @@
 This project provides a display interface for VESC controllers using an ESP32.
 
 💡 Credits
-Inspired by [SimpleVescDisplay
-
-Public](https://github.com/NetworkDir/SimpleVescDisplay?tab=readme-ov-file)
+Inspired by [SimpleVescDisplayPublic](https://github.com/NetworkDir/SimpleVescDisplay?tab=readme-ov-file)
 
 🛠 Installation & Setup
 To get the project running, please follow these exact steps:
