@@ -1,6 +1,6 @@
 # 📟 VESC ESP32 Display
 
-This project provides a display interface for VESC controllers using an ESP32.
+This project provides a display interface for VESC controllers using an **ESP32-2432S028R**.
 
 ---
 
