@@ -9,8 +9,11 @@ Inspired by [SimpleVescDisplay Public](https://github.com/NetworkDir/SimpleVescD
 
 ---
 
-## 🛠 Installation & Setup
+<img src="./img/image.jpeg" alt="Demo Image" width="300" height="408">
 
+---
+
+## 🛠 Installation & Setup
 To get the project running, please follow these exact steps:
 
 1.  **📂 Replace Folder:** Replace your old Arduino folder completely with the Arduino provided in this project.
